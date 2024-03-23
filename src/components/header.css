@@ -1,0 +1,55 @@
+.header {
+    /* border: 1px solid lightgray; */
+    width: 98vw;
+    margin: 4px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.y-logo {
+    height: 60px;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.header-center {
+    width: 40%;
+    padding-left: 3px;
+    /* flex: 1; */
+    display: flex;
+    border: 1px solid rgb(218, 214, 214);
+    border-radius: 30px;
+    align-items: center;
+}
+
+.header-center>input {
+    border: none;
+    flex: 1;
+    font-size: 14px;
+    padding: 4px;
+}
+
+.header-center>input:focus {
+    border: none;
+    outline: none;
+}
+
+.b-left {
+    border-left: 1px solid rgb(218, 214, 214);
+}
+
+.lens-icon {
+    color: gray;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    margin-right: 14px;
+    gap: 8px;
+
+}

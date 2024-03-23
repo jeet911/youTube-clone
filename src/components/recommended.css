@@ -1,0 +1,12 @@
+.recommended{
+    /* border: 1px solid red; */
+    flex: 0.8;
+}
+
+.flex{
+    padding: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+
+}

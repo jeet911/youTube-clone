@@ -1,0 +1,30 @@
+.channelrow-flex{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    align-items: center;
+}
+
+.channel-text{
+    margin: 0;
+    width: 50%;  
+}
+
+.channel-text > h2{
+    margin: 0;
+    margin-bottom: 4px;
+
+}
+
+.channel-text > p{
+    margin: 0;
+    padding: 2px 0;
+    color: #606060;
+    font-size: 13px;
+}
+
+.btn-subs{
+    background: black;
+    color: white;
+    outline: none;
+}

@@ -1,0 +1,56 @@
+.video-card {
+    width: 335px;
+    margin-bottom: 8px;
+}
+
+.card-img {
+    width: 100%;
+    border-radius: 13px;
+}
+
+.logo {
+    height: 36px;
+    border-radius: 50%;
+}
+
+.channel-logo-flex {
+    display: flex;
+    gap: 4px;
+}
+
+.card-content {
+    margin-left: 43px;
+}
+
+.title {
+    margin: 0;
+    padding: 4px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.time {
+    margin: 0;
+    font-size: 14px;
+    color: gray;
+    font-weight: 400;
+}
+
+.views {
+    margin: 0;
+    font-size: 14px;
+    color: gray;
+    font-weight: 400;
+}
+
+.channel-name {
+    margin: 0;
+    font-size: 14px;
+    color: gray;
+    font-weight: 400;
+}
+
+.time-flex {
+    display: flex;
+    gap: 6px;
+}

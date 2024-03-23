@@ -1,0 +1,46 @@
+.videoRow {
+    display: flex;
+    margin: 30px 0;
+
+}
+
+.img-logo {
+    height: 265px;
+    object-fit: contain;
+
+}
+
+.videoRow-text {
+    margin-left: 14px;
+}
+
+.title {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.timeline {
+    margin: 0;
+    color: #606060;
+    font-size: 13px;
+}
+
+.desc {
+    color: #606060;
+    font-size: 13px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #606060;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.s-logo {
+    height: 26px;
+    width: 26px;
+}
